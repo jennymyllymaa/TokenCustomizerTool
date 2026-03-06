@@ -1,1 +1,3 @@
 # TokenCustomizerTool
+
+In progress customizer tool for [Priimacraft](https://www.etsy.com/shop/priimacraft/?etsrc=sdt&dd_referrer=https%3A%2F%2Fwww.google.com%2F).

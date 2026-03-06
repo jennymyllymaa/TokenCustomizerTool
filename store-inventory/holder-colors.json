@@ -1,0 +1,80 @@
+{"colors":[
+    {
+        "id": 1,
+        "name": "Black",
+        "colorCode": "#000000",
+        "available": true
+    },
+    {
+        "id": 2,
+        "name": "White",
+        "colorCode": "#ffffff",
+        "available": true
+    },
+    {
+        "id": 3,
+        "name": "Grey",
+        "colorCode": "#828a8f",
+        "available": true
+    },
+    {
+        "id": 4,
+        "name": "Beige",
+        "colorCode": "#bea27b",
+        "available": true
+    },
+    {
+        "id": 5,
+        "name": "Brown",
+        "colorCode": "#3c280d",
+        "available": true
+    },
+    {
+        "id": 6,
+        "name": "Red",
+        "colorCode": "#e23632",
+        "available": true
+    },
+    {
+        "id": 7,
+        "name": "Dark Red",
+        "colorCode": "#4e1c1b",
+        "available": true
+    },
+    {
+        "id": 8,
+        "name": "Orange",
+        "colorCode": "#ed722f",
+        "available": true
+    },
+    {
+        "id": 9,
+        "name": "Yellow",
+        "colorCode": "#f9f008",
+        "available": true
+    },
+    {
+        "id": 10,
+        "name": "Green",
+        "colorCode": "#64d638",
+        "available": true
+    },
+    {
+        "id": 11,
+        "name": "Blue",
+        "colorCode": "#0837d1",
+        "available": true
+    },
+    {
+        "id": 12,
+        "name": "Purple",
+        "colorCode": "#6b3dad",
+        "available": true
+    },
+    {
+        "id": 13,
+        "name": "Pink",
+        "colorCode": "#f9abb8",
+        "available": true
+    }
+]}

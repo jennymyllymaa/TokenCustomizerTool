@@ -1,0 +1,65 @@
+@font-face {
+  font-family: "Agency-FB-Bold";
+  src: local("AGENCYB"),
+    url("./fonts/Agency/AGENCYB.TTF") format("truetype");
+  font-weight: bold;
+}
+
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  /* Fontit */
+  --font-family-primary: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-family-heading: "Roboto Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-family-token: "Agency-FB-Bold"
+
+  /* Fonttikoot */
+  --font-size-base: 16px;
+  --font-size-small: 14px;
+  --font-size-large: 20px;
+  --font-size-xlarge: 24px;
+
+  /*Light theme colors (default)*/
+  /*Text colors*/
+  --text-primary: #000000; 
+  --text-secondary: #6d6d6d; 
+
+  /*Background colors*/
+  --background-primary: #f5f8fd;
+  /* --backgound-secondary: #DBE3ED; */
+  --backgound-secondary: #ffffff;
+
+  /*Accent colors*/
+  --accent-primary: #A74E8B;
+  --accent-secondary: #E1A9D0; 
+  --accent-tertiary: #C2AFBB;
+}
+
+/* Dark theme colors */
+.dark-theme {
+  /*Text colors*/
+  --text-primary: #FFFFFF; 
+  --text-secondary: #6d6d6d; 
+
+  /*Background colors*/
+  --background-primary: #222324;
+  --backgound-secondary: #525353;
+
+  /*Accent colors*/
+  --accent-primary: #A74E8B;
+  --accent-secondary: #E1A9D0; 
+  --accent-tertiary: #C2AFBB;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+  padding: 2rem;
+  text-align: center;
+  background-color: var(--background-primary);
+}
+

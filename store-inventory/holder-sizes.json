@@ -1,0 +1,34 @@
+{"holderSizes":[
+    {
+        "id": 1,
+        "name":"16xHolder",
+        "tokenCount":16,
+        "imagePath":"holder16.webp",
+        "alt":"holder-16-image",
+        "available":true
+    },
+    {
+        "id": 2,
+        "name":"32xHolder",
+        "tokenCount":32,
+        "imagePath":"holder32.avif",
+        "alt":"holder-32-image",
+        "available":true
+    },
+    {
+        "id": 3,
+        "name":"40xHolder",
+        "tokenCount":40,
+        "imagePath":"holder40.avif",
+        "alt":"holder-40-image",
+        "available":true
+    },
+    {
+        "id": 4,
+        "name":"48xHolder",
+        "tokenCount":48,
+        "imagePath":"holder48.avif",
+        "alt":"holder-48-image",
+        "available":true
+    }
+]}

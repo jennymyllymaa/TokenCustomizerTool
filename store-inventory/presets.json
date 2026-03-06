@@ -1,0 +1,1458 @@
+{
+    "presets": [
+        {
+            "ManaColor": "White",
+            "ManaId": 2,
+            "sets": [
+                {
+                    "id": 1,
+                    "holderSize": 16,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 4
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 1
+                        },
+                        {
+                            "text": "+0+1",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 2
+                        },
+                        {
+                            "text": "First Strike",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Lifelink",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Double Strike",
+                            "amount": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "holderSize": 32,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 8
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 2
+                        },
+                        {
+                            "text": "+0+1",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 4
+                        },
+                        {
+                            "text": "First Strike",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Lifelink",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Double Strike",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Indestr.",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Defender",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Hexproof",
+                            "amount": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "holderSize": 40,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 10
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 4
+                        },
+                        {
+                            "text": "+0+1",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 4
+                        },
+                        {
+                            "text": "First Strike",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Lifelink",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Double Strike",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Indestr.",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Defender",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Hexproof",
+                            "amount": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "holderSize": 48,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 12
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 4
+                        },
+                        {
+                            "text": "+0+1",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 4
+                        },
+                        {
+                            "text": "First Strike",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Lifelink",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Double Strike",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Indestr.",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Defender",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Hexproof",
+                            "amount": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ManaColor": "Blue",
+            "ManaId": 3,
+            "sets": [
+                {
+                    "id": 5,
+                    "holderSize": 16,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 4
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 4
+                        },
+                        {
+                            "text": "+0+1",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Hexproof",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Lifelink",
+                            "amount": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "holderSize": 32,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 8
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 8
+                        },
+                        {
+                            "text": "+0+1",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Hexproof",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Lifelink",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Indestr.",
+                            "amount": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "holderSize": 40,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 12
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 8
+                        },
+                        {
+                            "text": "+0+1",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Hexproof",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Lifelink",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Indestr.",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Double Strike",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Double Strike",
+                            "amount": 1
+                        },
+                        {
+                            "text": "First Strike",
+                            "amount": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "holderSize": 48,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 12
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 10
+                        },
+                        {
+                            "text": "+0+1",
+                            "amount": 6
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 6
+                        },
+                        {
+                            "text": "Hexproof",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Lifelink",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Indestr.",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Double Strike",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Double Strike",
+                            "amount": 1
+                        },
+                        {
+                            "text": "First Strike",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Defender",
+                            "amount": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ManaColor": "Black",
+            "ManaId": 1,
+            "sets": [
+                {
+                    "id": 9,
+                    "holderSize": 32,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 6
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 6
+                        },
+                        {
+                            "text": "Death Touch",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Lifelink",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Menace",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Indestr.",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Trample",
+                            "amount": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "holderSize": 40,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 8
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 8
+                        },
+                        {
+                            "text": "-1-0",
+                            "amount": 2
+                        },
+                        {
+                            "text": "-0-1",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Death Touch",
+                            "amount": 6
+                        },
+                        {
+                            "text": "Lifelink",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Menace",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Indestr.",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Trample",
+                            "amount": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "holderSize": 48,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 4
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Death Touch",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Lifelink",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Menace",
+                            "amount": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "holderSize": 48,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 10
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 8
+                        },
+                        {
+                            "text": "-1-0",
+                            "amount": 3
+                        },
+                        {
+                            "text": "-0-1",
+                            "amount": 3
+                        },
+                        {
+                            "text": "Death Touch",
+                            "amount": 6
+                        },
+                        {
+                            "text": "Lifelink",
+                            "amount": 6
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Menace",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Indestr.",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Trample",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Hexproof",
+                            "amount": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ManaColor": "Red",
+            "ManaId": 5,
+            "sets": [
+                {
+                    "id": 13,
+                    "holderSize": 16,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 4
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 2
+                        },
+                        {
+                            "text": "+1+0",
+                            "amount": 2
+                        },
+                        {
+                            "text": "First Strike",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Double Strike",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Trample",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Menace",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "holderSize": 32,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 8
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 3
+                        },
+                        {
+                            "text": "+1+0",
+                            "amount": 3
+                        },
+                        {
+                            "text": "First Strike",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Double Strike",
+                            "amount": 3
+                        },
+                        {
+                            "text": "Trample",
+                            "amount": 3
+                        },
+                        {
+                            "text": "Menace",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Death Touch",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "holderSize": 40,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 12
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 4
+                        },
+                        {
+                            "text": "+1+0",
+                            "amount": 4
+                        },
+                        {
+                            "text": "First Strike",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Double Strike",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Trample",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Menace",
+                            "amount": 3
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 3
+                        },
+                        {
+                            "text": "Death Touch",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "holderSize": 48,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 12
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 5
+                        },
+                        {
+                            "text": "+1+0",
+                            "amount": 5
+                        },
+                        {
+                            "text": "First Strike",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Double Strike",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Trample",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Menace",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Death Touch",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Indestr.",
+                            "amount": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ManaColor": "Green",
+            "ManaId": 4,
+            "sets": [
+                {
+                    "id": 18,
+                    "holderSize": 16,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 4
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 2
+                        },
+                        {
+                            "text": "+2+2",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Death Touch",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Hexproof",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Indestr.",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Reach",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Trample",
+                            "amount": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "holderSize": 32,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 8
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 2
+                        },
+                        {
+                            "text": "+2+2",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Death Touch",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Hexproof",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Indestr.",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Trample",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Lifelink",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Double Strike",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Reach",
+                            "amount": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "holderSize": 40,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 12
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 4
+                        },
+                        {
+                            "text": "+2+2",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Death Touch",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Hexproof",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Indestr.",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Trample",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Lifelink",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Double Strike",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Reach",
+                            "amount": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "holderSize": 48,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 14
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 4
+                        },
+                        {
+                            "text": "+2+2",
+                            "amount": 6
+                        },
+                        {
+                            "text": "+5+5",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Death Touch",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Hexproof",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Indestr.",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Trample",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Lifelink",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Double Strike",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Reach",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Menace",
+                            "amount": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ManaColor": "Colorless",
+            "ManaId": 6,
+            "sets": [
+                {
+                    "id": 22,
+                    "holderSize": 16,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 4
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 1
+                        },
+                        {
+                            "text": "+0+1",
+                            "amount": 1
+                        },
+                        {
+                            "text": "+1+0",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Indestr.",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Death Touch",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Menace",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Hexproof",
+                            "amount": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 23,
+                    "holderSize": 32,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 8
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 2
+                        },
+                        {
+                            "text": "+0+1",
+                            "amount": 2
+                        },
+                        {
+                            "text": "+1+0",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Indestr.",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Death Touch",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Menace",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Hexproof",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Lifelink",
+                            "amount": 2
+                        },
+                        {
+                            "text": "First Strike",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Double Strike",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Reach",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Trample",
+                            "amount": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 24,
+                    "holderSize": 40,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 12
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 2
+                        },
+                        {
+                            "text": "+0+1",
+                            "amount": 2
+                        },
+                        {
+                            "text": "+1+0",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Indestr.",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Death Touch",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Menace",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Hexproof",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Lifelink",
+                            "amount": 2
+                        },
+                        {
+                            "text": "First Strike",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Double Strike",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Reach",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Trample",
+                            "amount": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 25,
+                    "holderSize": 48,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 14
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 4
+                        },
+                        {
+                            "text": "+0+1",
+                            "amount": 3
+                        },
+                        {
+                            "text": "+1+0",
+                            "amount": 3
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 4
+                        },
+                        {
+                            "text": "Indestr.",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Death Touch",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Menace",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Hexproof",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Lifelink",
+                            "amount": 2
+                        },
+                        {
+                            "text": "First Strike",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Double Strike",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Reach",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Trample",
+                            "amount": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ManaColor": "Basic",
+            "ManaId": 7,
+            "sets": [
+                {
+                    "id": 26,
+                    "holderSize": 16,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 4
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Indestr.",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Death Touch",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Menace",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Hexproof",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Lifelink",
+                            "amount": 1
+                        },
+                        {
+                            "text": "First Strike",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Double Strike",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Reach",
+                            "amount": 1
+                        },
+                        {
+                            "text": "Trample",
+                            "amount": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 27,
+                    "holderSize": 32,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 4
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 2
+                        },
+                        {
+                            "text": "+0+1",
+                            "amount": 2
+                        },
+                        {
+                            "text": "+1+0",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Indestr.",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Death Touch",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Menace",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Hexproof",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Lifelink",
+                            "amount": 2
+                        },
+                        {
+                            "text": "First Strike",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Double Strike",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Reach",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Trample",
+                            "amount": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 28,
+                    "holderSize": 40,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 10
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 4
+                        },
+                        {
+                            "text": "+0+1",
+                            "amount": 2
+                        },
+                        {
+                            "text": "+1+0",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Indestr.",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Death Touch",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Menace",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Hexproof",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Lifelink",
+                            "amount": 2
+                        },
+                        {
+                            "text": "First Strike",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Double Strike",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Reach",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Trample",
+                            "amount": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 29,
+                    "holderSize": 48,
+                    "tokens": [
+                        {
+                            "text": "+1+1",
+                            "amount": 16
+                        },
+                        {
+                            "text": "-1-1",
+                            "amount": 6
+                        },
+                        {
+                            "text": "+0+1",
+                            "amount": 2
+                        },
+                        {
+                            "text": "+1+0",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Flying",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Indestr.",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Death Touch",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Menace",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Vigilance",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Hexproof",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Lifelink",
+                            "amount": 2
+                        },
+                        {
+                            "text": "First Strike",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Double Strike",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Reach",
+                            "amount": 2
+                        },
+                        {
+                            "text": "Trample",
+                            "amount": 2
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
